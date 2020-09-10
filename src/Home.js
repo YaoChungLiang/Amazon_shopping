@@ -18,7 +18,7 @@ function Home() {
                 <div className="home__row">
                     <Product 
                         id="12321341"
-                        title="watermelon 1"
+                        title="watermelon"
                         price={29.99}
                         image="https://solidstarts.com/wp-content/uploads/when-can-babies-eat-watermelon-480x320.jpg"
                         rating={5}
@@ -33,21 +33,21 @@ function Home() {
                 </div>
                 <div className="home__row">
                     <Product 
-                        id="12321341"
+                        id="121341"
                         title="Melon"
                         price={15}
                         image="https://picture-original.fevercdn.com/page-rt-mart-2018426-4d8afb18-ac65-43ee-87a2-244dd574db87.jpg"
                         rating={4}
                     />
                     <Product
-                        id="49538094"
+                        id="495094"
                         title="papaya"
                         price={1}
                         image="https://www.globalvillagespace.com/wp-content/uploads/2019/09/Household-treasures-Papayas-antioxidants-and-nourishments.png"
                         rating={4}
                     />
                     <Product 
-                        id="12321341"
+                        id="12341"
                         title="Hamigua"
                         price={15}
                         image="https://www.zhifure.com/upload/images/2017/11/23144556666.jpg"
@@ -56,7 +56,7 @@ function Home() {
                 </div>
                 <div className="home__row">
                     <Product 
-                        id="12321341"
+                        id="1341"
                         title="Demon fruit - rubber"
                         price={15}
                         image="https://img.ruten.com.tw/s1/4/2f/1d/21452098474781_234.jpg"
